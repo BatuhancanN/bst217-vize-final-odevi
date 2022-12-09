@@ -1,0 +1,14 @@
+body
+{
+    background-color: #eee;
+}
+.carousel-item
+{
+    height: 40rem;
+    background: #777;
+}
+
+img {
+    max-width: 85%;
+    height: auto;   
+}
